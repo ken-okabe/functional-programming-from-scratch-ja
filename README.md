@@ -130,7 +130,8 @@ Rust、UnrealEngine5、Dockerその他もろもろは、プログラミング、
 ## Unknown「気づいてない」という未知の領域
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700205262782.png#gh-light-mode-only)
-![image](https://github.com/ken-okabe/functional-programming-from-scratch-ja/assets/1316994/1aa4065c-8015-4dc9-83ff-b330fb56846b)
+![image](https://github.com/ken-okabe/functional-programming-from-scratch-ja/assets/1316994/27d16414-99ce-46f2-8ea8-c15ca391bcd5#gh-dark-mode-only)
+
 
 
 つまり、技術の中身を知っていようがいまいが、その **よく知られたKnown領域** のさらに外側には、一般によく認知すらされていない、 **Unknown「気づいてない」未知の領域** が存在している
