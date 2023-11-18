@@ -92,7 +92,7 @@ https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-5
 ---
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700031545739.png#gh-light-mode-only)
-![image](https://github.com/ken-okabe/functional-programming-from-scratch-ja/assets/1316994/594348d8-e95b-40e0-b91c-b1dd58f08fd2.png#gh-dark-mode-only)
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700313380544.png#gh-dark-mode-only)
 
 
 少しずつ、 **Unknowns「知らない事」** の領域を置き換えるように、 **Knowns「知ってる事」** の領域を押し広げていく行為が **知識の獲得** ということになる
@@ -216,14 +216,12 @@ Unknown「気付いてない」知識には、
 その事を明確化するために、あくまで分類の概念図の問題ではあるが、グラフを書き換えることもできる
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700042845299.png#gh-light-mode-only)
-![image](https://github.com/ken-okabe/functional-programming-from-scratch-ja/assets/1316994/6a1d6fb7-219a-47f6-a59c-81e87f7910bb.png#gh-dark-mode-only)
-
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700313470234.png#gh-light-mode-only)
 
 まず、下半分は、通常気付いている、よく知られている、Knownの領域
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700205635529.png#gh-light-mode-only)
-![image](https://github.com/ken-okabe/functional-programming-from-scratch-ja/assets/1316994/a41ba448-ac9b-4327-b2bf-8b004d2f61c1.png#gh-dark-mode-only)
-
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700313505649.png#gh-dark-mode-only)
 
 繰り返しとなるが、学びたい対象がすでにWell-knownな技術、RustであったりUnrealEngineであったりDockerである場合は、このアプローチが機能する
 
@@ -234,7 +232,7 @@ Unknown「気付いてない」知識には、
 ## Unknown Knowns「知ってる事を気付いてない」
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700193300993.png#gh-light-mode-only)
-![image](https://github.com/ken-okabe/functional-programming-from-scratch-ja/assets/1316994/3792f247-6253-4ddd-a580-96fbd8e0e969.png#gh-dark-mode-only)
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700313990600.png#gh-dark-mode-only)
 
 
 まず最初に、 **Known Knowns「知っている事を気付いている」ことを再確認** しておくことは、とても重要
@@ -256,7 +254,7 @@ Unknown「気付いてない」知識には、
 ## Unknown Unknowns「知らない事を気付いてない」の領域に踏み込む
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700193814082.png#gh-light-mode-only)
-![image](https://github.com/ken-okabe/functional-programming-from-scratch-ja/assets/1316994/a6f674bd-9e47-46c5-bca7-516a89b9a6d2.png#gh-dark-mode-only)
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700313634713.png#gh-dark-mode-only)
 
 
 次にのステップは、このUnknown Knowns「知っている事を気付いてない」を基軸として、Unknown Unknowns「知らない事を気付いてない」の領域に踏み込む
