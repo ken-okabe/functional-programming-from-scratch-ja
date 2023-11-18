@@ -117,7 +117,7 @@ Rust、UnrealEngine5、Dockerその他もろもろは、プログラミング、
 
 ここでの **有名な、Well-known「よく知られている」**  とは皆が技術の中身をよく知っている、熟知しており精通している、ということではなく、名前が知れ渡っており、よく認知されている、気づかれている、という意味になる
 
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700205229981.png)
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700205229981.png#gh-light-mode-only)
 
 ---
 
