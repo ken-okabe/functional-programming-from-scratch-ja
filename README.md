@@ -2,27 +2,80 @@
 
 ---
 
-## 全UNIT 1 ~ 5
+### 全UNIT 1 ~ 5
+
+---
+
+### ★1. OVERVIEW
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1699680323457.png)
 
+関数型プログラミングの一番「外側」を紹介
+
+関数型プログラミングとは何か？
+
+最新のプログラミングコミュニティの動向、CPUと命令型プログラミング、システム言語における型、構造化プログラミングへの抽象化、関数型言語の紹介、オブジェクト指向と関数型プログラミングの用語と数学の関係、Unreal Engine（ゲームエンジン）の関数型言語Verse、SolidJS、FRPの哲学的側面も含む広く一般的な話題
+
+TypeScriptとF#の開発環境のクイックスタート、セットアップ
+
 https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-1
+
+---
+
+### 2. BASIC
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1699680354148.png)
 
+関数型プログラミングを成立させるための骨格となるパーツを紹介
+
+ファーストクラス関数 、 ラムダ式 、 高階関数 、 二項演算の結合性 、 関数合成 、 Monoid（モノイド）
+
+これがなければ関数型プログラミングは始まらないので理解は必須
+
 https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-2
+
+---
+
+### 3. THEORY
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1699680377421.png)
 
+関数型プログラミングの根底にある理論にかなり深く踏み込む
+
+難解だと思われている 圏論（Category theory） も含め、特に興味がある読者向け
+著名な論文を引用しながらも、アプローチしやすい解説を試みる
+
+興味のない読者は無理をしてすべて理解しようとしなくても良いし、読み飛ばしても構わない
+
 https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-3
+
+---
+
+### 4. APPLICATION
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1699680405688.png)
 
+THEORYの内容のまとめ、図を含む
+
+Pipeline/List/Option/IO/Timeline/Async Monad を紹介
+
+Monadの実装、F#とTypeScriptを使って具体的なコードを書いていく
+
+最終的には ゼロからミニマルなFRPを構築 することを目指す
+
 https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-4
+
+---
+
+### 5. SAMPLE CODE
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1699680431816.png)
 
+サンプルコード
+
 https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-5
+
+---
 
 ---
 
@@ -78,7 +131,6 @@ https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-5
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700029123626.png#gh-light-mode-only)
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700332402930.png#gh-dark-mode-only)
-
 
 ある人間にとっては、世の中には **Knowns | Unknowns**   〜 **「知っている事」「知らない事」** がある
 
