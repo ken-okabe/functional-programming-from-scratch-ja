@@ -284,3 +284,30 @@ Unknown「気付いてない」知識には、
 ![image](https://raw.githubusercontent.com/ken-okabe/vscode-markdown-note-images/main/showcase.png)
 
 ![image](https://raw.githubusercontent.com/ken-okabe/vscode-markdown-note-images/main/demo06.gif)
+
+
+---
+
+全UNIT 1 ~ 5 
+
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1699680323457.png)
+
+https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-1
+
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1699680354148.png)
+
+https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-2
+
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1699680377421.png)
+
+https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-3
+
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1699680405688.png)
+
+https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-4
+
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1699680431816.png)
+
+https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-5
+
+---
