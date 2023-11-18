@@ -1,4 +1,4 @@
-# functional-programming-from-scratch-ja
+# Functional Programming From Scratch 日本語版
 
 ---
 
