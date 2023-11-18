@@ -3,11 +3,12 @@
 ---
 
 ## Unknown Unknowns 「知らない事に気づいてない」
----
 
 ---
 
-全UNIT 1 ~ 5 
+---
+
+全UNIT 1 ~ 5
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1699680323457.png)
 
@@ -82,7 +83,7 @@ https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-5
 ## Knowns | Unknowns  〜「知っている事」「知らない事」
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700029123626.png#gh-light-mode-only)
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700313259114.png#gh-dark-mode-only)
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700332402930.png#gh-dark-mode-only)
 
 
 ある人間にとっては、世の中には **Knowns | Unknowns**   〜 **「知っている事」「知らない事」** がある
@@ -93,7 +94,6 @@ https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-5
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700031545739.png#gh-light-mode-only)
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700313380544.png#gh-dark-mode-only)
-
 
 少しずつ、 **Unknowns「知らない事」** の領域を置き換えるように、 **Knowns「知ってる事」** の領域を押し広げていく行為が **知識の獲得** ということになる
 
@@ -112,7 +112,9 @@ https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-5
 ## でも、それって自分にとってUnknowns「知らない事」である事は、Known「気づいていた」よね？
 
 <img width="300px" src="https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700033588167.png">
+
 <img width="300px" src="https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700033804207.png">
+
 <img width="300px" src="https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700034037135.png">
 
 Rust、UnrealEngine5、Dockerその他もろもろは、プログラミング、IT世界で **有名な、Well-known「よく知られている」** 技術だ
@@ -122,17 +124,14 @@ Rust、UnrealEngine5、Dockerその他もろもろは、プログラミング、
 ここでの **有名な、Well-known「よく知られている」**  とは皆が技術の中身をよく知っている、熟知しており精通している、ということではなく、名前が知れ渡っており、よく認知されている、気づかれている、という意味になる
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700205229981.png#gh-light-mode-only)
-![image](https://github.com/ken-okabe/functional-programming-from-scratch-ja/assets/1316994/d7ca0c3a-a73e-40f1-a8e9-5d1443d9245c.png#gh-dark-mode-only)
-
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700332525159.png#gh-dark-mode-only)
 
 ---
 
 ## Unknown「気づいてない」という未知の領域
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700205262782.png#gh-light-mode-only)
-![image](https://github.com/ken-okabe/functional-programming-from-scratch-ja/assets/1316994/27d16414-99ce-46f2-8ea8-c15ca391bcd5.png#gh-dark-mode-only)
-
-
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700332613751.png#gh-dark-mode-only)
 
 つまり、技術の中身を知っていようがいまいが、その **よく知られたKnown領域** のさらに外側には、一般によく認知すらされていない、 **Unknown「気づいてない」未知の領域** が存在している
 
@@ -141,8 +140,7 @@ Rust、UnrealEngine5、Dockerその他もろもろは、プログラミング、
 ## Unknown「気づいてない」をKnown「気づいている」に変える
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700205286647.png#gh-light-mode-only)
-![image](https://github.com/ken-okabe/functional-programming-from-scratch-ja/assets/1316994/b08b4b33-d319-440f-ad90-b8e2aed933b0.png#gh-dark-mode-only)
-
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700332060996.png#gh-dark-mode-only)
 
 関数型プログラミングの「部品」は、RustやDockerのようにすでに世間でよく知られているような技術ではない、ので
 
@@ -161,9 +159,7 @@ Known（気づいている）
 しかし、 **巷にあふれる多くの関数型プログラミングの解説** では、関数型プログラミングにとって必要な、おそらく読者にとっては未知で、気付いてもいないような新概念が、あたかもすでに巷で有名、Well-knownであるかの如く解説を試みている
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700038450865.png#gh-light-mode-only)
-![image](https://github.com/ken-okabe/functional-programming-from-scratch-ja/assets/1316994/40bbcf0b-3dbb-4d2c-ac4d-36af81a755f0.png#gh-dark-mode-only)
-
-
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700332228358.png#gh-dark-mode-only)
 
 **このアプローチは通用しない**
 
@@ -202,8 +198,7 @@ Known（気づいている）
 ###
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700036973819.png#gh-light-mode-only)
-![image](https://github.com/ken-okabe/functional-programming-from-scratch-ja/assets/1316994/6dd49c81-9e8f-45b0-8735-6fdd54554f27.png#gh-dark-mode-only)
-
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700332060996.png#gh-dark-mode-only)
 
 Unknown「気付いてない」知識には、
 
@@ -216,12 +211,11 @@ Unknown「気付いてない」知識には、
 その事を明確化するために、あくまで分類の概念図の問題ではあるが、グラフを書き換えることもできる
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700042845299.png#gh-light-mode-only)
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700313470234.png#gh-light-mode-only)
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700313470234.png#gh-dark-mode-only)
 
 まず、下半分は、通常気付いている、よく知られている、Knownの領域
 
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700205635529.png#gh-light-mode-only)
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700313505649.png#gh-dark-mode-only)
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700313584078.png#gh-light-mode-only)![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700313505649.png#gh-dark-mode-only)
 
 繰り返しとなるが、学びたい対象がすでにWell-knownな技術、RustであったりUnrealEngineであったりDockerである場合は、このアプローチが機能する
 
@@ -233,7 +227,6 @@ Unknown「気付いてない」知識には、
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700193300993.png#gh-light-mode-only)
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700313990600.png#gh-dark-mode-only)
-
 
 まず最初に、 **Known Knowns「知っている事を気付いている」ことを再確認** しておくことは、とても重要
 
@@ -255,7 +248,6 @@ Unknown「気付いてない」知識には、
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700193814082.png#gh-light-mode-only)
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700313634713.png#gh-dark-mode-only)
-
 
 次にのステップは、このUnknown Knowns「知っている事を気付いてない」を基軸として、Unknown Unknowns「知らない事を気付いてない」の領域に踏み込む
 
@@ -283,10 +275,9 @@ Unknown「気付いてない」知識には、
 
 ![image](https://raw.githubusercontent.com/ken-okabe/vscode-markdown-note-images/main/demo06.gif)
 
-
 ---
 
-全UNIT 1 ~ 5 
+全UNIT 1 ~ 5
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1699680323457.png)
 
