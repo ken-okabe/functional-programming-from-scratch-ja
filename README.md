@@ -4,8 +4,6 @@
 
 ## 全UNIT 1 ~ 5
 
----
-
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1699680323457.png)
 
 https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-1
@@ -273,7 +271,7 @@ Unknown「気付いてない」知識には、
 
 ---
 
-全UNIT 1 ~ 5
+## 全UNIT 1 ~ 5
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1699680323457.png)
 
