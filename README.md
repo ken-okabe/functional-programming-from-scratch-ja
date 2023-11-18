@@ -81,7 +81,7 @@ https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-5
 
 ## Knowns | Unknowns  〜「知っている事」「知らない事」
 
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700029123626.png)
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700029123626.png#gh-light-mode-only)
 
 ある人間にとっては、世の中には **Knowns | Unknowns**   〜 **「知っている事」「知らない事」** がある
 
@@ -89,7 +89,7 @@ https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-5
 
 ---
 
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700031545739.png)
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700031545739.png#gh-light-mode-only)
 
 少しずつ、 **Unknowns「知らない事」** の領域を置き換えるように、 **Knowns「知ってる事」** の領域を押し広げていく行為が **知識の獲得** ということになる
 
@@ -107,11 +107,9 @@ https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-5
 
 ## でも、それって自分にとってUnknowns「知らない事」である事は、Known「気づいていた」よね？
 
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700033588167.png =300x)
-
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700033804207.png =300x)
-
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700034037135.png =300x)
+<img width="300px" src="https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700033588167.png">
+<img width="300px" src="https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700033804207.png">
+<img width="300px" src="https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700034037135.png">
 
 Rust、UnrealEngine5、Dockerその他もろもろは、プログラミング、IT世界で **有名な、Well-known「よく知られている」** 技術だ
 
@@ -125,7 +123,7 @@ Rust、UnrealEngine5、Dockerその他もろもろは、プログラミング、
 
 ## Unknown「気づいてない」という未知の領域
 
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700205262782.png)
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700205262782.png#gh-light-mode-only)
 
 つまり、技術の中身を知っていようがいまいが、その **よく知られたKnown領域** のさらに外側には、一般によく認知すらされていない、 **Unknown「気づいてない」未知の領域** が存在している
 
@@ -133,7 +131,7 @@ Rust、UnrealEngine5、Dockerその他もろもろは、プログラミング、
 
 ## Unknown「気づいてない」をKnown「気づいている」に変える
 
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700205286647.png)
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700205286647.png#gh-light-mode-only)
 
 関数型プログラミングの「部品」は、RustやDockerのようにすでに世間でよく知られているような技術ではない、ので
 
@@ -151,7 +149,7 @@ Known（気づいている）
 
 しかし、 **巷にあふれる多くの関数型プログラミングの解説** では、関数型プログラミングにとって必要な、おそらく読者にとっては未知で、気付いてもいないような新概念が、あたかもすでに巷で有名、Well-knownであるかの如く解説を試みている
 
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700038450865.png)
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700038450865.png#gh-light-mode-only)
 
 **このアプローチは通用しない**
 
@@ -189,7 +187,7 @@ Known（気づいている）
 
 ###
 
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700036973819.png)
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700036973819.png#gh-light-mode-only)
 
 Unknown「気付いてない」知識には、
 
@@ -201,11 +199,11 @@ Unknown「気付いてない」知識には、
 
 その事を明確化するために、あくまで分類の概念図の問題ではあるが、グラフを書き換えることもできる
 
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700042845299.png)
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700042845299.png#gh-light-mode-only)
 
 まず、下半分は、通常気付いている、よく知られている、Knownの領域
 
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700205635529.png)
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700205635529.png#gh-light-mode-only)
 
 繰り返しとなるが、学びたい対象がすでにWell-knownな技術、RustであったりUnrealEngineであったりDockerである場合は、このアプローチが機能する
 
@@ -215,7 +213,7 @@ Unknown「気付いてない」知識には、
 
 ## Unknown Knowns「知ってる事を気付いてない」
 
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700193300993.png)
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700193300993.png#gh-light-mode-only)
 
 まず最初に、 **Known Knowns「知っている事を気付いている」ことを再確認** しておくことは、とても重要
 
@@ -235,7 +233,7 @@ Unknown「気付いてない」知識には、
 
 ## Unknown Unknowns「知らない事を気付いてない」の領域に踏み込む
 
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700193814082.png)
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700193814082.png#gh-light-mode-only)
 
 次にのステップは、このUnknown Knowns「知っている事を気付いてない」を基軸として、Unknown Unknowns「知らない事を気付いてない」の領域に踏み込む
 
