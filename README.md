@@ -82,7 +82,7 @@ https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-5
 ## Knowns | Unknowns  〜「知っている事」「知らない事」
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700029123626.png#gh-light-mode-only)
-![image](https://github.com/ken-okabe/functional-programming-from-scratch-ja/assets/1316994/41a4c2a8-303e-4b48-a0ea-f68330843207.png#gh-dark-mode-only)
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700313259114.png#gh-dark-mode-only)
 
 
 ある人間にとっては、世の中には **Knowns | Unknowns**   〜 **「知っている事」「知らない事」** がある
