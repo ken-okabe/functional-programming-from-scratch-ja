@@ -175,11 +175,11 @@ https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-5
 
 ## でも、それって自分にとってUnknowns「知らない事」である事は、Known「気づいていた」よね？
 
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700033588167.png =300x)
+<img width="300px" src="https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700033588167.png">
 
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700033804207.png =300x)
+<img width="300px" src="https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700033804207.png">
 
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700034037135.png =300x)
+<img width="300px" src="https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700034037135.png">
 
 Rust、UnrealEngine5、Dockerその他もろもろは、プログラミング、IT世界で **有名な、Well-known「よく知られている」** 技術だ
 
