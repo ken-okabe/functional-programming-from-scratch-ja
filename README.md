@@ -2,11 +2,29 @@
 
 ---
 
-### 全UNIT 1 ~ 5
+関数型プログラミングの入門本
+
+**Functional Programming From Scratch**
+
+**関数型プログラミングをゼロからわかりやすく実用的に幅広い視点から解説！〜 圏論からFRPの構築まで**
+
+🔷UNIT 1🔷 OVERVIEW
+
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1699680323457.png)
+
+https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-1/
+
+の冒頭部分です。
 
 ---
 
-### ★1. OVERVIEW
+---
+
+### 全UNIT 1 ~ 5のうち、この本は、UNIT 1です
+
+---
+
+#### ★1. OVERVIEW
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1699680323457.png)
 
@@ -22,7 +40,7 @@ https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-1
 
 ---
 
-### 2. BASIC
+#### 2. BASIC
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1699680354148.png)
 
@@ -36,7 +54,7 @@ https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-2
 
 ---
 
-### 3. THEORY
+#### 3. THEORY
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1699680377421.png)
 
@@ -51,7 +69,7 @@ https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-3
 
 ---
 
-### 4. APPLICATION
+#### 4. APPLICATION
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1699680405688.png)
 
@@ -67,7 +85,7 @@ https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-4
 
 ---
 
-### 5. SAMPLE CODE
+#### 5. SAMPLE CODE
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1699680431816.png)
 
@@ -87,7 +105,7 @@ https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-5
 
 さらに
 
-- **Unknown Knowns 「知ってる事なのに気づいてない」**
+- **Unknown Knowns 「知っている事なのに気づいてない」**
 
 領域にある知識体系だから
 
@@ -101,7 +119,7 @@ https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-5
 
 -  **純粋関数（Pure fiunction）** を組み合わせる
 
--  **純粋関数とは、（副作用（Side effect）** があってはならない
+-  **純粋関数とは、副作用（Side effect）** があってはならない
 
 - 「変数」は **イミュータブル（Immutable）** だ
 
@@ -129,8 +147,7 @@ https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-5
 
 ## Knowns | Unknowns  〜「知っている事」「知らない事」
 
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700029123626.png#gh-light-mode-only)
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700332402930.png#gh-dark-mode-only)
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700029123626.png)
 
 ある人間にとっては、世の中には **Knowns | Unknowns**   〜 **「知っている事」「知らない事」** がある
 
@@ -138,10 +155,9 @@ https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-5
 
 ---
 
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700031545739.png#gh-light-mode-only)
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700313380544.png#gh-dark-mode-only)
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700031545739.png)
 
-少しずつ、 **Unknowns「知らない事」** の領域を置き換えるように、 **Knowns「知ってる事」** の領域を押し広げていく行為が **知識の獲得** ということになる
+少しずつ、 **Unknowns「知らない事」** の領域を置き換えるように、 **Knowns「知っている事」** の領域を押し広げていく行為が **知識の獲得** ということになる
 
 たとえば、プログラミング、ITの領域に限定して言うならば、
 
@@ -157,11 +173,11 @@ https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-5
 
 ## でも、それって自分にとってUnknowns「知らない事」である事は、Known「気づいていた」よね？
 
-<img width="300px" src="https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700033588167.png">
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700033588167.png =300x)
 
-<img width="300px" src="https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700033804207.png">
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700033804207.png =300x)
 
-<img width="300px" src="https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700034037135.png">
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700034037135.png =300x)
 
 Rust、UnrealEngine5、Dockerその他もろもろは、プログラミング、IT世界で **有名な、Well-known「よく知られている」** 技術だ
 
@@ -169,15 +185,13 @@ Rust、UnrealEngine5、Dockerその他もろもろは、プログラミング、
 
 ここでの **有名な、Well-known「よく知られている」**  とは皆が技術の中身をよく知っている、熟知しており精通している、ということではなく、名前が知れ渡っており、よく認知されている、気づかれている、という意味になる
 
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700205229981.png#gh-light-mode-only)
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700332525159.png#gh-dark-mode-only)
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700205229981.png)
 
 ---
 
 ## Unknown「気づいてない」という未知の領域
 
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700205262782.png#gh-light-mode-only)
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700332613751.png#gh-dark-mode-only)
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700205262782.png)
 
 つまり、技術の中身を知っていようがいまいが、その **よく知られたKnown領域** のさらに外側には、一般によく認知すらされていない、 **Unknown「気づいてない」未知の領域** が存在している
 
@@ -185,8 +199,7 @@ Rust、UnrealEngine5、Dockerその他もろもろは、プログラミング、
 
 ## Unknown「気づいてない」をKnown「気づいている」に変える
 
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700205286647.png#gh-light-mode-only)
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700332060996.png#gh-dark-mode-only)
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700205286647.png)
 
 関数型プログラミングの「部品」は、RustやDockerのようにすでに世間でよく知られているような技術ではない、ので
 
@@ -204,8 +217,7 @@ Known（気づいている）
 
 しかし、 **巷にあふれる多くの関数型プログラミングの解説** では、関数型プログラミングにとって必要な、おそらく読者にとっては未知で、気付いてもいないような新概念が、あたかもすでに巷で有名、Well-knownであるかの如く解説を試みている
 
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700038450865.png#gh-light-mode-only)
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700332228358.png#gh-dark-mode-only)
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700038450865.png)
 
 **このアプローチは通用しない**
 
@@ -243,8 +255,7 @@ Known（気づいている）
 
 ###
 
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700036973819.png#gh-light-mode-only)
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700332060996.png#gh-dark-mode-only)
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700036973819.png)
 
 Unknown「気付いてない」知識には、
 
@@ -256,12 +267,11 @@ Unknown「気付いてない」知識には、
 
 その事を明確化するために、あくまで分類の概念図の問題ではあるが、グラフを書き換えることもできる
 
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700042845299.png#gh-light-mode-only)
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700313470234.png#gh-dark-mode-only)
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700042845299.png)
 
 まず、下半分は、通常気付いている、よく知られている、Knownの領域
 
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700313584078.png#gh-light-mode-only)![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700313505649.png#gh-dark-mode-only)
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700335510753.png)
 
 繰り返しとなるが、学びたい対象がすでにWell-knownな技術、RustであったりUnrealEngineであったりDockerである場合は、このアプローチが機能する
 
@@ -269,10 +279,9 @@ Unknown「気付いてない」知識には、
 
 ---
 
-## Unknown Knowns「知ってる事を気付いてない」
+## Unknown Knowns「知っている事を気付いてない」
 
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700193300993.png#gh-light-mode-only)
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700313990600.png#gh-dark-mode-only)
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700193300993.png)
 
 まず最初に、 **Known Knowns「知っている事を気付いている」ことを再確認** しておくことは、とても重要
 
@@ -284,16 +293,36 @@ Unknown「気付いてない」知識には、
 
 *あなたがすでによく知っている事とは、実は、関数型プログラミングに照らし合わせてみると、こういう事なんですよ？*
 
+### Before
+
+Unkown Knowns「知っている事を気付いてない」
+
+### After
+
+Known Knowns「知っている事を気付いている」
+
 というのは「気づき」のプロセスであり、これまでのUnknowns「知らない事」を新しく仕入れる作業が発生しないので、非常に楽でスムーズ
 
+ **つまり、小学校卒業した全員が「とても良く知っている」「足し算」「引き算」「掛け算」「割り算」は、その人にとっては盤石な知識であり、今更また算数ドリルをやりなおす必要はない** 
+
+ **これはその人がすでに小学校時代に苦労して獲得した偉大な知的資産だ** 
+
+しかし、この「四則演算」と呼ばれる「代数構造」が、関数型プログラミングやMonad
+（モナド）と呼ばれる概念にどのように繋がるのか？ほとんどの人は知らない、知らされていない
+
+そして、一旦「気づき」を得るならば、 **この「四則演算」という苦労して獲得した知的資産が、関数型プログラミングの知見へ、そのまま、まるごと流用できる** 
+
+従って、**この「気づき」を気づかせない、知らせない、教えない、解説しない、というのはとんでもない事であり、それは説明者の怠慢か、単に説明者自身がろくに理解していないか、そのどちらかでしかないのだが、実際のところ後者のケースが非常に多い**
+
 **本書では、この作業を意識して徹底的に試みている**
+
+もし、あなたがこのことを「気付いていない」のであれば、それだけで本書を読んでみる価値はあるだろう
 
 ---
 
 ## Unknown Unknowns「知らない事を気付いてない」の領域に踏み込む
 
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700193814082.png#gh-light-mode-only)
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700313634713.png#gh-dark-mode-only)
+![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1700193814082.png)
 
 次にのステップは、このUnknown Knowns「知っている事を気付いてない」を基軸として、Unknown Unknowns「知らない事を気付いてない」の領域に踏み込む
 
@@ -309,6 +338,10 @@ Unknown「気付いてない」知識には、
 
 **関数型プログラミングにおける「時間の取り扱い」の理論物理学的視点** については、少なくとも筆者は **SICPを例外として、ただひとつの解説を見た記憶がない** ので、それだけ世間でなおざりにされている重要なテーマであると考える
 
+**本書では、この作業を意識して徹底的に試みている**
+
+もし、あなたがこのことを「気付いていない」のであれば、それだけで本書を読んでみる価値はあるだろう
+
 ---
 
 # MarkdownNote（VSCode Extention）
@@ -320,29 +353,3 @@ Unknown「気付いてない」知識には、
 ![image](https://raw.githubusercontent.com/ken-okabe/vscode-markdown-note-images/main/showcase.png)
 
 ![image](https://raw.githubusercontent.com/ken-okabe/vscode-markdown-note-images/main/demo06.gif)
-
----
-
-## 全UNIT 1 ~ 5
-
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1699680323457.png)
-
-https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-1
-
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1699680354148.png)
-
-https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-2
-
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1699680377421.png)
-
-https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-3
-
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1699680405688.png)
-
-https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-4
-
-![image](https://raw.githubusercontent.com/ken-okabe/web-images3/main/img_1699680431816.png)
-
-https://zenn.dev/ken_okabe/books/functional-programming-from-scratch-5
-
----
